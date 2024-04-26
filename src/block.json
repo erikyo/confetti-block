@@ -20,8 +20,7 @@
   "textdomain": "block-development-examples",
   "editorScript": "file:./index.js",
   "viewScript": "file:./script.js",
-  "viewStyle": [ "file:./style-script.css" ],
-  "keywords": [ "6aa4dd" ],
+  "viewStyle": "file:./style-script.css",
   "supports": {
     "color": {
       "text": true,
