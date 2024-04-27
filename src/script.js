@@ -1,7 +1,10 @@
 import confetti from 'canvas-confetti';
 import './style.css';
 
-document.querySelector('.wp-block-blocchi-confetti').addEventListener('click', () => {
+/**
+ * Add event listener to confetti button to start confetti
+ */
+document.querySelector('.wp-block-blocchi-confetti')?.addEventListener('click', () => {
   console.log("confetti!")
   confetti({
     particleCount: 100,

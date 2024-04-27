@@ -1,7 +1,10 @@
 <?php
 /**
- * Plugin Name:       Confetti
- * Text Domain:       confetti
+ * Plugin Name: Confetti
+ * Description: Confetti block
+ * Version:     1.0.0
+ * Author:      me
+ * Text Domain: confetti
  */
 
 function register_block() {

@@ -5,19 +5,7 @@
   "version": "0.1.0",
   "title": "Confetti",
   "category": "widgets",
-  "attributes": {
-    "content": {
-      "type": "string",
-      "source": "html",
-      "selector": "p"
-    }
-  },
-  "example": {
-    "attributes": {
-      "content": "Hello world"
-    }
-  },
-  "textdomain": "block-development-examples",
+  "textdomain": "confetti",
   "editorScript": "file:./index.js",
   "viewScript": "file:./script.js",
   "viewStyle": "file:./style-script.css",
