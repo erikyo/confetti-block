@@ -49,5 +49,3 @@ With the Confetti block, every day is a celebration on your WordPress website.
 So go ahead, add some sparkle to your content, and let the good times roll! Get ready to dazzle your visitors and make your website the life of the party. 
 
 Happy coding, and may your days be filled with confetti and joy! 🎉
-
-Of course! Let's expand the cooking instructions section for our Confetti block recipe:
